@@ -1,3 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(60, 61, 60);}
+
+
+
 #navbar{
 background-color:aliceblue ;
 
@@ -30,4 +37,10 @@ width: 95%;
   border: none;             
   border-radius: 15px;     
   cursor: pointer;
+}
+
+.container{
+  width: 95%;
+  margin: 200px;
+ 
 }
