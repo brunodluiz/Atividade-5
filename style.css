@@ -1,8 +1,17 @@
 #navbar{
 background-color: rgb(200, 172, 226);
 
+padding: 20px;
+
+display: flex;
 
 
+}
 
+
+body{
+
+
+background-color: azure;
 
 }
