@@ -1,12 +1,9 @@
 body{
-    margin: 0;
-    padding: 0;
-    background-color:rgb(10, 141, 248);}
-
-
+   
+    background-color:rgb(105, 174, 231);}
 
 #navbar{
-background-color:aliceblue ;
+background-color:rgb(111, 178, 236) ;
 
 padding:  20px;
 
@@ -17,12 +14,8 @@ display: flex;
 }
 
 
-body{
 
 
-background-color: rgb(236, 222, 222);
-
-}
  .container{
 
 
@@ -31,7 +24,7 @@ width: 95%;
  }
 
  .meu-botao {
-  background-color: blue;   
+  background-color: rgb(45, 121, 221);   
   color: white;             
   padding: 10px 20px;       
   border: none;             
