@@ -15,3 +15,9 @@ body{
 background-color: azure;
 
 }
+
+.container{
+  width: 95%;
+  margin: 200px;
+ 
+}
